@@ -1,0 +1,13 @@
+
+Login Details
+
+Username: admin
+Password: water
+
+
+Username: special
+Password: special
+
+
+Username: user
+Password: user 
